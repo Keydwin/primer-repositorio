@@ -1,6 +1,7 @@
 nombre="Keydwin"
+apellido="Sambrano"
 
-saludo=("hola",+nombre)
-print(nombre)
+saludo="hola "+nombre + apellido
+print(saludo)
 
 print("Te gusta la cuca pelada :p?")
